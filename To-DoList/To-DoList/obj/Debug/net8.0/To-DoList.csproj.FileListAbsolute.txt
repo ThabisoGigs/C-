@@ -1,0 +1,14 @@
+c:\Users\Thabiso Gigaba\Desktop\C#\To-DoList\To-DoList\bin\Debug\net8.0\To-DoList.exe
+c:\Users\Thabiso Gigaba\Desktop\C#\To-DoList\To-DoList\bin\Debug\net8.0\To-DoList.deps.json
+c:\Users\Thabiso Gigaba\Desktop\C#\To-DoList\To-DoList\bin\Debug\net8.0\To-DoList.runtimeconfig.json
+c:\Users\Thabiso Gigaba\Desktop\C#\To-DoList\To-DoList\bin\Debug\net8.0\To-DoList.dll
+c:\Users\Thabiso Gigaba\Desktop\C#\To-DoList\To-DoList\bin\Debug\net8.0\To-DoList.pdb
+c:\Users\Thabiso Gigaba\Desktop\C#\To-DoList\To-DoList\obj\Debug\net8.0\To-DoList.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Thabiso Gigaba\Desktop\C#\To-DoList\To-DoList\obj\Debug\net8.0\To-DoList.AssemblyInfoInputs.cache
+c:\Users\Thabiso Gigaba\Desktop\C#\To-DoList\To-DoList\obj\Debug\net8.0\To-DoList.AssemblyInfo.cs
+c:\Users\Thabiso Gigaba\Desktop\C#\To-DoList\To-DoList\obj\Debug\net8.0\To-DoList.csproj.CoreCompileInputs.cache
+c:\Users\Thabiso Gigaba\Desktop\C#\To-DoList\To-DoList\obj\Debug\net8.0\To-DoList.dll
+c:\Users\Thabiso Gigaba\Desktop\C#\To-DoList\To-DoList\obj\Debug\net8.0\refint\To-DoList.dll
+c:\Users\Thabiso Gigaba\Desktop\C#\To-DoList\To-DoList\obj\Debug\net8.0\To-DoList.pdb
+c:\Users\Thabiso Gigaba\Desktop\C#\To-DoList\To-DoList\obj\Debug\net8.0\To-DoList.genruntimeconfig.cache
+c:\Users\Thabiso Gigaba\Desktop\C#\To-DoList\To-DoList\obj\Debug\net8.0\ref\To-DoList.dll
